@@ -1,0 +1,23 @@
+{
+  "name": "X9C Digital Potentiometers",
+  "keywords": "DigiPot, Potentiometers, X9Cxxx, X9C",
+  "description": "Arduino library for Intersil X9C series of digital potentiometers (forked from philbowles/Arduino-X9C
+)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/whhsn/Arduino-X9C.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Phil Bowles",
+      "email": "philbowles2012@gmail.com",
+      "url": "https://github.com/philbowles/Arduino-X9C",
+      "maintainer": true
+    }
+  ],
+  "version": "0.9.0",
+  "frameworks": "arduino","ESP32"
+  "platforms": "*"
+}
